@@ -1,7 +1,7 @@
 {
   "name": "@react-slider-captcha/react",
   "version": "1.0.0",
-  "description": "User-friendly puzzle slider captcha for React and Express",
+  "description": "user-friendly puzzle slider captcha for react and express",
   "main": "index.js",
   "files": [
     "/lib",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahdiiithg/react-slider-captcha"
+    "url": "git+https://github.com/mahdiiithg/react-slider-captcha.git"
   },
   "keywords": [
     "react",
