@@ -4,16 +4,16 @@ Generate a puzzle slider captcha and display with React component.\
 ## Installation
 React frontend:
 ```
-npm i @slider-captcha/react
+npm i @react-slider-captcha/react
 ```
 Backend:
 ```
-npm i @slider-captcha/core
+npm i @react-slider-captcha/core
 ```
 ## Usage
 React:
 ```
-import SliderCaptcha from '@slider-captcha/react';
+import SliderCaptcha from '@react-slider-captcha/react';
 
 function verifiedCallback(token) {
   console.log('Captcha token: ' + token);
@@ -31,7 +31,7 @@ function App() {
 ```
 Express:
 ```
-var sliderCaptcha = require('@slider-captcha/core');
+var sliderCaptcha = require('@react-slider-captcha/core');
 
 app.get('/captcha/create', function (req, res) {
   sliderCaptcha.create()

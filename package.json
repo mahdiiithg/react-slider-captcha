@@ -1,6 +1,6 @@
 {
   "name": "react-captcha-slider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a slider recaptcha for fight with spam",
   "main": "index.js",
   "scripts": {
