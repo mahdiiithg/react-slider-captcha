@@ -1,5 +1,5 @@
 {
-  "name": "@slider-captcha/react",
+  "name": "@react-slider-captcha/react",
   "version": "1.0.0",
   "description": "User-friendly puzzle slider captcha for React and Express",
   "main": "index.js",
