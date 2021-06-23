@@ -1,34 +1,9 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+*.swo
+*.swp
+*.swn
+*.tmp
+*.svg
+*.jpg
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-.eslintcache
-.eslintignore
-# testing
-/coverage
-
-# production
-/build
-
-# 
-public/charting_library/
-public/datafeeds/
-src/charting_library/
-
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# extra
-/#.##
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-package-lock.json
-yarn.lock
+**/node_modules
+**/lib
