@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MahdiiiThg/react-slider-captcha.git"
+    "url": "git+https://github.com/mahdiiithg/react-slider-captcha.git"
   },
   "keywords": [
     "react-captcha",
@@ -23,7 +23,7 @@
   "collaborators": "@tarnasi", 
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MahdiiiThg/react-slider-captcha/issues"
+    "url": "https://github.com/mahdiiithg/react-slider-captcha/issues"
   },
-  "homepage": "https://github.com/MahdiiiThg/react-slider-captcha#readme"
+  "homepage": "https://github.com/mahdiiithg/react-slider-captcha#readme"
 }

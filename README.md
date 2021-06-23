@@ -64,9 +64,9 @@ app.post('/captcha/verify', function (req, res) {
 | variant | string | `light` | Use `'light'` for light theme, `'dark'` for dark theme |
 
 Light:\
-![](https://github.com/MahdiiiThg/react-slider-captcha/light.png)\
+![](https://github.com/mahdiiithg/react-slider-captcha/light.png)\
 Dark:\
-![](https://github.com/MahdiiiThg/react-slider-captcha/dark.png)
+![](https://github.com/mahdiiithg/react-slider-captcha/dark.png)
 
 ### Create captcha options
 `sliderCaptcha.create({option: value})`
@@ -82,7 +82,7 @@ Dark:\
 | rotate | bool | false | Apply a random rotation to the puzzle piece |
 
 With rotation and distortion: \
-![](https://github.com/MahdiiiThg/react-slider-captcha/distortrotate.png)
+![](https://github.com/mahdiiithg/react-slider-captcha/distortrotate.png)
 
 ### Verify captcha options
 `sliderCaptcha.verify(captcha, {response, trail: {x, y}}, {option: value})`

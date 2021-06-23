@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MahdiiiThg/react-slider-captcha.git"
+    "url": "git+https://github.com/mahdiiithg/react-slider-captcha.git"
   },
   "keywords": [
     "react",
@@ -30,9 +30,9 @@
   "author": "mahditahavorgar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MahdiiiThg/react-slider-captcha/issues"
+    "url": "https://github.com/mahdiiithg/react-slider-captcha/issues"
   },
-  "homepage": "https://github.com/MahdiiiThg/react-slider-captcha#readme",
+  "homepage": "https://github.com/mahdiiithg/react-slider-captcha#readme",
   "dependencies": {
     "prop-types": "^15.7.2",
     "sharp": "^0.25.4",
