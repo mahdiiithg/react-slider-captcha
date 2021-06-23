@@ -1,19 +1,19 @@
-# @slider-captcha
+# @react-slider-captcha
 Generate a puzzle slider captcha and display with React component.\
-![](https://raw.githubusercontent.com/adrsch/slider-captcha/master/demo.gif)
+![](https://github.com/MahdiiiThg/react-slider-captcha/demo.gif)
 ## Installation
 React frontend:
 ```
-npm i @slider-captcha/react
+npm i @react-slider-captcha/react
 ```
 Backend:
 ```
-npm i @slider-captcha/core
+npm i @react-slider-captcha/core
 ```
 ## Usage
 React:
 ```
-import SliderCaptcha from '@slider-captcha/react';
+import SliderCaptcha from '@react-slider-captcha/react';
 
 function verifiedCallback(token) {
   console.log('Captcha token: ' + token);
@@ -31,7 +31,7 @@ function App() {
 ```
 Express:
 ```
-var sliderCaptcha = require('@slider-captcha/core');
+var sliderCaptcha = require('@react-slider-captcha/core');
 
 app.get('/captcha/create', function (req, res) {
   sliderCaptcha.create()
@@ -64,9 +64,9 @@ app.post('/captcha/verify', function (req, res) {
 | variant | string | `light` | Use `'light'` for light theme, `'dark'` for dark theme |
 
 Light:\
-![](https://raw.githubusercontent.com/adrsch/slider-captcha/master/light.png)\
+![](https://github.com/MahdiiiThg/react-slider-captcha/light.png)\
 Dark:\
-![](https://raw.githubusercontent.com/adrsch/slider-captcha/master/dark.png)
+![](https://github.com/MahdiiiThg/react-slider-captcha/dark.png)
 
 ### Create captcha options
 `sliderCaptcha.create({option: value})`
@@ -82,7 +82,7 @@ Dark:\
 | rotate | bool | false | Apply a random rotation to the puzzle piece |
 
 With rotation and distortion: \
-![](https://raw.githubusercontent.com/adrsch/slider-captcha/master/distortrotate.png)
+![](https://github.com/MahdiiiThg/react-slider-captcha/distortrotate.png)
 
 ### Verify captcha options
 `sliderCaptcha.verify(captcha, {response, trail: {x, y}}, {option: value})`
