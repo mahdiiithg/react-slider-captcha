@@ -20,6 +20,7 @@
     "slider-recaptcha"
   ],
   "author": "mahdithg",
+  "collaborators": "@tarnasi", 
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MahdiiiThg/react-slider-captcha/issues"
