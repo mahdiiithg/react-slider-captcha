@@ -31,9 +31,9 @@
   "author": "adrsch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adrsch/slider-captcha/issues"
+    "url": "https://github.com/MahdiiiThg/react-slider-captcha/issues"
   },
-  "homepage": "https://github.com/adrsch/slider-captcha#readme",
+  "homepage": "https://github.com/MahdiiiThg/react-slider-captcha/blob/main/README.md",
   "dependencies": {
     "prop-types": "^15.7.2"
   },
